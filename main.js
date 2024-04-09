@@ -1,4 +1,9 @@
-//What are higher Order Functions
-// What are closures
-// Explain Hoisting
+function greet(name) {
+    return "HI " + name;
+}
 
+function callMe(greeting, wellbeing) {
+    console.log(greeting + " " + wellbeing);
+}
+
+callMe(greet("Vinod"), "HOw are you");

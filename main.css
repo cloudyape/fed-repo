@@ -1,0 +1,12 @@
+/* CSS Colors 
+Parallax Scrolling - When background image is fixed and rest is all scrollable
+*/
+
+div {
+    color: white;
+    height: 900px;
+    width: 1300px;
+    border-radius: 56px;
+    background: #000000 url(./cafe-style-hot-coffee-recipe-1.jpg) no-repeat right;
+}
+
