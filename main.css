@@ -1,3 +1,15 @@
-a:visited {
-    background-color: peru;
+/* CSS Colors 
+
+1. Direct Color Name - Eg green, blue, orange
+2. Hex - #000000 - Black                               #ffffff - White
+3. RGB - Red Green Blue Mixture
+4. RGBA - Red Green Blue Alpha
+5. HSL - Hue Saturation Lightness
+6. HSLA - Hue Saturation Lightnss Alpha
+*/
+
+.abc {
+    background: hsla(0, 100%, 50%, 0.6);
+    height: 300px;
+    width: 300px;
 }

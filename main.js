@@ -1,8 +1,7 @@
+/*
+Hexadecimal
+*/
 
-let x =3;
-const myPromise = new Promise((resolve, reject) => {
-    resolve("Promise Success");
-    reject("Promise Fail");
-});
+let x = 3.1415926535; // Minimum Safe Integer we can take without compromising security
 
-myPromise.then((value) => x === 3);
+console.log(x.toPrecision(12));
