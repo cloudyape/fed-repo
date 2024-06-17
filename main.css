@@ -1,0 +1,110 @@
+/* #myid1{
+    height:300px;
+    width:300px;
+    background-color:pink;
+}
+h1{
+    color: blue;
+}
+/* #cofee{
+  height:500px;
+  width:500px;
+ background-color:rgba(0, 100, 110, 0.6); */
+  
+/* img{
+    width:100%;
+    
+}
+#demo{
+    width:500px;
+    height:300px;
+    background-size: 100% 100% !important;
+    background:url(./taza-cafe-deliciosa-sobre-mesa-madera-scaled.jpg);
+    background-attachment:fixed;
+} */
+
+#cofee{
+    height:300px;
+    width:200px;
+    border-left:14px dotted blue;
+    border-right:14px dashed red;
+    border-top:14px double pink;
+    border-bottom:14px dotted black;
+    margin: 50px 56px 30px 45px;
+    padding: 45px 35px 34px 55px;
+}
+
+#tea{
+
+    height:300px;
+    width:200px; 
+    border-left:14px solid blue;
+    border-right:14px groove red;
+    border-top:14px ridge pink;
+    border-bottom:14px inset black;
+    margin: 50px 56px 30px 45px;
+    padding: 45px 35px 34px 55px;  
+}
+#abc{
+    height:300px;
+    width:200px; 
+    border: 10px solid black;
+    margin:30px;
+    padding:30px;
+}
+#xyz{
+    height:300px;
+    width:200px; 
+    border: 10px solid black;
+    margin:30px;
+    padding:30px;
+
+}
+#sana{
+    height:300px;
+    width:200px;
+    background-color: aqua;
+    outline:10px dotted black;
+    outline-offset: 35px;
+    padding: 100px;
+    text-decoration: line-through overline underline;
+    text-decoration-color: rgba(100, 200 ,255,0.6); 
+    text-decoration-style: wavy;
+}
+.homepage{
+
+  font-family:homepage;
+}
+
+@font-face {
+    font-family:homepage;
+    src: url(./EuclidBold.ttf);
+
+}
+
+@font-face {
+    font-family:loginicon;
+    src: url(./EuclidCircularA\ Medium.ttf);
+}
+
+.align-center{
+    padding-left:45px ;
+}
+.navbar{
+background-color:yellow;
+} 
+#login{
+    margin:right;
+    background-color: black;
+    color: white;
+}
+i{
+    margin:100px;
+}
+div{
+    width:300px;
+    height: 300px;
+    margin: 20px;
+    color:grey;
+    border: 1px solid black;  
+}
