@@ -1,6 +1,11 @@
-/*
-Display Css is a Modern wat to arrange HTML Block Level Elements Eg div
+.parent {
+   display: flex;
+   align-items: stretch;
+   height: 100vH;
+}
 
-display: block is default arrrangement of divs
-display:inline turns bloack level element to inline element
-*/
+.child {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
