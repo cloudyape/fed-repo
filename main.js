@@ -1,2 +1,1 @@
-let num = Math.LOG10E;
-console.log(num);
+//axios -> alternative of fetch
